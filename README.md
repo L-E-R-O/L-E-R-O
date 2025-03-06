@@ -12,7 +12,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 - **Frameworks:** No thanks – outdated trends are over.
 - **Mobile Development:** Android, iOS, Windows Phone
 - **Databases:** PostgreSQL – because even data deserves personality.
-- **AI:** I know how to make an promt a guess – AI, Lero style.
+- **AI:** I know how to make an prompt a guess – AI, Lero style.
 
 ### **System Administration & DevOps in the 22nd Century**
 - **Operating Systems:** Debian, Ubuntu, (Windows, if necessary)
