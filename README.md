@@ -30,7 +30,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 
 ## 📊 GitHub Stats & Trends
 
-![Lero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-E-R-O&show_icons=true&theme=radical&count_private=true)
+![Lero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-E-R-O&show_icons=true&theme=midnight-purple&count_private=true)
 
 
 ## 🎯 My Goals
