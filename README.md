@@ -16,7 +16,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 
 ### **System Administration & DevOps in the 22nd Century**
 - **Operating Systems:** Debian, Ubuntu, (Windows, if necessary)
-- **Containers & Virtualization:** Docker, Kubernetes – so code is actually working on your tesk too.
+- **Containers & Virtualization:** Docker, Kubernetes – so code is actually working on your desk too.
 - **CI/CD & Automation:** GitHub Actions, Jenkins – because nothing builds itself.
 - **Cloud & Hosting:** My own solutions – third parties can take a hike.
 - **Networking & Security:** Cloudflare, Nginx, WireGuard
@@ -30,7 +30,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 | 🕹️ Scripts for FiveM | Lua scripts for FiveM GTA V RP server | Why did I do this to myself? |
 
 ## 🎯 My Goals
-- 🔹 Improve system architecture knowledge & DevOps automation
+- 🔹 Complete system architecture knowledge & DevOps automation
 - 🔹 Contribute more to open-source projects
 - 🔹 Expand my AI & machine learning expertise
 
