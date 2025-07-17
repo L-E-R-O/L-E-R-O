@@ -27,6 +27,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 |-------------|-------------|------------|
 | 🚀 Time Tracking System | Track all the current processes that are in use | Golang, Docker, (Web-Stuff)
 | 🤖 AI-Powered Chatbot | "I am Iron Man" | requires too much power |
+| 🕹️ Scripts for FiveM | "Lua scripts for FiveM GTA V RP server" | Why did I do this to myself? |
 
 ## 📊 GitHub Stats & Trends
 
