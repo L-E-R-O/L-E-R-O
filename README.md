@@ -8,7 +8,7 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 ## 🚀 My Galactic Tech Arena
 
 ### **Programming Paradise**
-- **Languages:** Golang, Java, Python, Bash, JavaScript *(because why not?)*
+- **Languages:** Golang, Java, Python, Bash, Lua, JavaScript *(because why not?)*
 - **Frameworks:** No thanks – outdated trends are over.
 - **Mobile Development:** Android, iOS, Windows Phone
 - **Databases:** PostgreSQL – because even data deserves personality.
@@ -23,16 +23,11 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 
 ## 🔮 My Project Landscape
 
-| Project Name | Description | Tech Stack |
-|-------------|-------------|------------|
-| 🚀 Time Tracking System | Track all the current processes that are in use | Golang, Docker, (Web-Stuff)
-| 🤖 AI-Powered Chatbot | "I am Iron Man" | requires too much power |
-| 🕹️ Scripts for FiveM | "Lua scripts for FiveM GTA V RP server" | Why did I do this to myself? |
-
-## 📊 GitHub Stats & Trends
-
-![Lero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-E-R-O&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)
-
+| Project Name | Description | Tech Stack | Comment |
+|-------------|-------------|------------|------------|
+| 🚀 Time Tracking System | Track all the current processes that are in use | Golang, Docker, (Web-Stuff) | Now I can finally sleep |
+| 🤖 AI-Powered Chatbot | "I am Iron Man" | LLM and Stuff like this | Requires too much POWER |
+| 🕹️ Scripts for FiveM | "Lua scripts for FiveM GTA V RP server" | Well is Lua! | Why did I do this to myself? |
 
 ## 🎯 My Goals
 - 🔹 Improve system architecture knowledge & DevOps automation
