@@ -23,11 +23,11 @@ I am a **Tech Enthusiast** and **Software Developer** with a passion for out-of-
 
 ## 🔮 My Project Landscape
 
-| Project Name | Description | Tech Stack | Comment |
-|-------------|-------------|------------|------------|
-| 🚀 Time Tracking System | Track all the current processes that are in use | Golang, Docker, (Web-Stuff) | Now I can finally sleep |
-| 🤖 AI-Powered Chatbot | "I am Iron Man" | LLM and Stuff like this | Requires too much POWER |
-| 🕹️ Scripts for FiveM | "Lua scripts for FiveM GTA V RP server" | Well is Lua! | Why did I do this to myself? |
+| Project Name | Description | Comment |
+|-------------|-------------|------------|
+| 🚀 Time Tracking System | Track all the current processes that are in use | Now I can finally sleep. |
+| 🤖 AI-Powered Chatbot | "I am Iron Man" | Requires too much POWER! |
+| 🕹️ Scripts for FiveM | Lua scripts for FiveM GTA V RP server | Why did I do this to myself? |
 
 ## 🎯 My Goals
 - 🔹 Improve system architecture knowledge & DevOps automation
